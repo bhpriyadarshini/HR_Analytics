@@ -1,7 +1,7 @@
 # HR_Analytics
 
 About - This projects aims to explore the Human Resources data to get insights such as overall employee, Attrition, Attrition rate, Average age of emplyoees,
-Average salaries and years of working in orgnization to improve emplyoee performance and reduce employee attrition, improve epmloyee retention.
+Average salaries and years of working in orgnization to improve emplyoee performance and reduce employee attrition, improve employee retention.
 
 Analytics - 
 HR Analytics done on basis on attrition with respect to Education, Age, Salary slab, Job role, Year of working in orginazation
